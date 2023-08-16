@@ -1,23 +1,15 @@
 ---
-title: Introduction to Java
+title: Course Overview and Inductive Synthesis
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Mon Aug 21
+: Program Synthesis and Challenges
+  : []()
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Wed Aug 23
+: Syntax-Guided Synthesis
+  : []()
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Fri Aug 25
+: Enumerative Search
+  : []()

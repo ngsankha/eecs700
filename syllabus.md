@@ -1,14 +1,11 @@
 ---
-layout: home
-title: Just the Class
-nav_exclude: true
-permalink: /:path/
-seo:
-  type: Course
-  name: Just the Class
+layout: page
+title: Syllabus
+description: The class organization and syllabus
+nav_order: 2
 ---
 
-# Just the Class
+# EECS700: Introduction to Program Synthesis
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
