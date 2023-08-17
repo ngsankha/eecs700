@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Schedule
-description: The weekly event schedule.
-nav_order: 3
+description: Listing of course modules and topics by date.
 ---
 
-# Weekly Schedule
+# Schedule
 
-{% for schedule in site.schedules %}
-{{ schedule }}
+_Schedule beyond next week is subject to change!_
+
+{% for module in site.modules %}
+{{ module }}
 {% endfor %}
