@@ -1,12 +1,15 @@
 ---
-title: Inductive Synthesis
+title: TBD
 ---
 
-Oct 30
-:
+Mon Oct 30
+: TBD
+  : []()
 
-Nov 1
-:
+Wed Nov 1
+: TBD
+  : []()
 
-Nov 3
-:
+Fri Nov 3
+: TBD
+  : []()

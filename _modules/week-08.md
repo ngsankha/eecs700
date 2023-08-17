@@ -1,12 +1,15 @@
 ---
-title: Inductive Synthesis
+title: Deductive Synthesis
 ---
 
-Oct 9
-:
+Mon Oct 9
+: Deductive Synthesis
+  : []()
 
-Oct 11
-:
+Wed Oct 11
+: Deductive/Inductive Hybrid Strategies
+  : []()
 
-Oct 13
-:
+Fri Oct 13
+: Synthesis with Abstract Interpretation
+  : []()

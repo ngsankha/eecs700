@@ -1,10 +1,12 @@
 ---
-title: Inductive Synthesis
+title: Presentation
 ---
 
-Dec 4
-:
+Mon Dec 4
+: Project Presentations
+  : []()
 
-Dec 6
-:
+Wed Dec 6
+: Project Presentations
+  : []()
 

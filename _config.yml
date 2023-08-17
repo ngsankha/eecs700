@@ -34,35 +34,35 @@ footer_content:
 
 # Collections for website data
 collections:
-  staffers:
+  # staffers:
   modules:
-  schedules:
-  announcements:
+  # schedules:
+  # announcements:
 # Default layouts for each collection type
 defaults:
-  - scope:
-      path: ''
-      type: staffers
-    values:
-      layout: staffer
-      height: 300
-      subpath: '/assets/images/'
-      width: 300
+  # - scope:
+  #     path: ''
+  #     type: staffers
+  #   values:
+  #     layout: staffer
+  #     height: 300
+  #     subpath: '/assets/images/'
+  #     width: 300
   - scope:
       path: ''
       type: modules
     values:
       layout: module
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: schedule
-  - scope:
-      path: ''
-      type: announcements
-    values:
-      layout: announcement
+  # - scope:
+  #     path: ''
+  #     type: schedules
+  #   values:
+  #     layout: schedule
+  # - scope:
+  #     path: ''
+  #     type: announcements
+  #   values:
+  #     layout: announcement
 
 compress_html:
   clippings: all

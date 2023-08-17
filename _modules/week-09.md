@@ -1,12 +1,12 @@
 ---
-title: Inductive Synthesis
+title: Project and Break
 ---
 
-Oct 16
+Mon Oct 16
 : **Fall Break**{: .label .label-red }
 
-Oct 18
-:
+Wed Oct 18
+: **Work on Project**{: .label .label-purple }
 
-Oct 20
-:
+Fri Oct 20
+: **Work on Project**{: .label .label-purple }

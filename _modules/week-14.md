@@ -1,12 +1,13 @@
 ---
-title: Inductive Synthesis
+title: Neurosymbolic
 ---
 
-Nov 20
-:
+Mon Nov 20
+: Neurosymbolic Synthesis - II
+  : []()
 
-Nov 22
+Wed Nov 22
 : **Thanksgiving**{: .label .label-red }
 
-Nov 24
+Fri Nov 24
 : **Thanksgiving**{: .label .label-red }

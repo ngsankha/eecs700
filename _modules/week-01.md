@@ -3,7 +3,7 @@ title: Course Overview and Inductive Synthesis
 ---
 
 Mon Aug 21
-: Program Synthesis and Challenges
+: Course Overview
   : []()
 
 Wed Aug 23

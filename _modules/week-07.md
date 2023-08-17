@@ -1,12 +1,15 @@
 ---
-title: Inductive Synthesis
+title: Type-driven Synthesis
 ---
 
-Oct 2
-:
+Mon Oct 2
+: Type-directed Synthesis
+  : []()
 
-Oct 4
-:
+Wed Oct 4
+: Synthesis with Refinement Types
+  :[]()
 
-Oct 6
-:
+Fri Oct 6
+: TBD
+  :[]()

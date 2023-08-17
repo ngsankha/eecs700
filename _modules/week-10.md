@@ -1,12 +1,15 @@
 ---
-title: Inductive Synthesis
+title: Test-driven Synthesis
 ---
 
-Oct 23
-:
+Mon Oct 23
+: Synthesis from tests
+  : []()
 
-Oct 25
-:
+Wed Oct 25
+: Synthesizing Effectful programs
+  : []()
 
-Oct 27
-:
+Fri Oct 27
+: TBD
+  : []()

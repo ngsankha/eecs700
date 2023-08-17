@@ -1,12 +1,15 @@
 ---
-title: Inductive Synthesis
+title: Neural Synthesis
 ---
 
-Nov 13
-:
+Mon Nov 13
+: Neural-Guided Synthesis
+  : []()
 
-Nov 15
-:
+Wed Nov 15
+: Synthesis as Reinforcement Learning
+  : []()
 
-Nov 17
-:
+Fri Nov 17
+: Neurosymbolic Synthesis - I
+  : []()

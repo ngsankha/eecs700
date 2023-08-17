@@ -1,12 +1,15 @@
 ---
-title: Inductive Synthesis
+title: Program Sketching
 ---
 
-Sep 25
-:
+Mon Sep 25
+: Counterexample Guided Inductive Synthesis (CEGIS)
+  : []()
 
-Sep 27
-:
+Wed Sep 27
+: Program Sketching
+  : []()
 
-Sep 29
-:
+Fri Sep 29
+: TBD
+  : []()

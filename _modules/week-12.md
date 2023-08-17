@@ -1,12 +1,15 @@
 ---
-title: Inductive Synthesis
+title: Probabilistic Synthesis
 ---
 
-Nov 6
-:
+Mon Nov 6
+: TBD
+  : []()
 
-Nov 8
-:
+Wed Nov 8
+: Bayesian View of Synthesis
+  : []()
 
-Nov 10
-:
+Fri Nov 10
+: Synthesizing Under a Distribution
+  : []()
