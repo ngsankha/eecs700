@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-description: The class organization and syllabus
+description: EECS 700 class organization and syllabus
 nav_order: 2
 ---
 
@@ -12,6 +12,9 @@ nav_order: 2
 * **Paper reviews:** 45%
   * 9 papers, 5% each
 * **Final Project:** 50%
+  * **Project Proposal:** 15%
+  * **Project Presentation:** 15%
+  * **Final Report:** 20%
 * **Class Particpation:** 5%
 
 ## Paper Reviews

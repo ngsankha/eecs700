@@ -21,6 +21,11 @@ seo:
 
 EECS 700 is a comprehensive introduction to automatic programming or program synthesis, an emerging area that sits at the intersection of programming languages, automated reasoning, and artificial intelligence. Program synthesis aims to generate programs automatically from high-level, possibly incomplete descriptions. The course covers a wide variety of recent synthesis techniques that differ in the kind of descriptions they start with tests and input-output examples to formal correctness specifications. It will also cover the search strategies synthesis tools use like enumeration, symbolic execution, type systems, stochastic search, and machine learning.
 
+### Communications
+
+* [Canvas](https://canvas.ku.edu/courses/105419)
+* [Discord](https://discord.com/channels/1141585928125689867/)
+
 ### Disclaimer
 
 All information on this class website is tentative and subject to change. Any substantive change will be accompanied with an announcement to the class via Canvas and Discord.

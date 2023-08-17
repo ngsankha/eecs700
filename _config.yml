@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "EECS 700: Introduction to Program Synthesis"
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
+tagline: "EECS 700: Introduction to Program Synthesis"
+description: "EECS 700: Introduction to Program Synthesis"
 author: Sankha Narayan Guria
 baseurl: '/eecs700' # the subpath of your site, e.g. /blog
 url: 'https://sankhs.com' # the base hostname & protocol for your site, e.g. http://example.com
