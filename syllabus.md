@@ -12,9 +12,10 @@ nav_order: 2
 * **Paper reviews:** 45%
   * 9 papers, 5% each
 * **Final Project:** 50%
+  * **Team formed by deadline:** 5%
   * **Project Proposal:** 15%
   * **Project Presentation:** 15%
-  * **Final Report:** 20%
+  * **Final Report:** 15%
 * **Class Particpation:** 5%
 
 ## Paper Reviews
@@ -35,8 +36,8 @@ The goal of the final project is to gain an in-depth understanding of the materi
 
 The project will have the following milestones:
 
-1. Form and register your project group.
-2. A project proposal where you describe what you plan to do and why it is a good idea. The project should be well scoped and give concrete examples about what is the input/outputs for the synthesizer and a rough idea of how it will transform the input to the output. The proposal should be 1-2 pages.
+1. Form and register your project group with 2-3 students.
+2. A project proposal where you describe what you plan to do and why it is a good idea. The project should be well scoped and give concrete examples about what is the input/outputs for the synthesizer and a rough idea of how it will transform the input to the output. The proposal should be 1 page long.
 3. A short presentation describing your project
 4. A final report describing your project between 5-8 pages of length. The report should read like a short paper, so describe what you did with examples, you algorithm, and your design decisions.
 
