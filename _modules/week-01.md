@@ -3,7 +3,7 @@ title: Course Overview and Inductive Synthesis
 ---
 
 Mon Aug 21
-: Course Overview
+: [Course Overview](../lectures/lecture01.pdf)
   : []()
 
 Wed Aug 23
