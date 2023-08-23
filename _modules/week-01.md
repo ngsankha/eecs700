@@ -3,11 +3,11 @@ title: Course Overview and Inductive Synthesis
 ---
 
 Mon Aug 21
-: [Course Overview](../lectures/lecture01.pdf)
+: [Course Overview](../lectures/lecture01-overview.pdf)
   : []()
 
 Wed Aug 23
-: Syntax-Guided Synthesis
+: [Syntax-Guided Synthesis]((../lectures/lecture02-sygus.pdf))
   : []()
 
 Fri Aug 25
