@@ -28,6 +28,8 @@ EECS 700 is a comprehensive introduction to automatic programming or program syn
 * [Canvas](https://canvas.ku.edu/courses/105419)
 * [Discord](https://discord.com/channels/1141585928125689867/)
 
+_The link to join Discord is shared on Canvas. Email me if you are unable to join._
+
 ### Disclaimer
 
 All information on this class website is tentative and subject to change. Any substantive change will be accompanied with an announcement to the class via Canvas and Discord.
