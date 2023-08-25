@@ -46,3 +46,7 @@ The projects will be judged on scope, quality of execution, and originality.
 ## Class Participation
 
 To earn participation points, participate in discussions during class and online on Discord.
+
+## Academic Integrity
+
+Academic misconduct of any kind will automatically result in a 0 score on the paper reviews or project and your actions will be reported to the department chair. You must work on paper reviews individually and projects only with your group. Posting your assignments to internet discussion lists / forums / chatrooms is considered academic misconduct. Sharing your solutions with others is also considered academic misconduct.
