@@ -22,11 +22,11 @@ nav_order: 2
 
 Most work in the class requires reading and reviewing research papers. We will cover about one paper per week. For each paper, you are required to write a review.
 
-The key things your review should have:
+The key things your review requires (unless noted by specific questions on the assignment):
 
 * 1-2 paragraph summary of the paper and their key contributions
-* What is your opinion of the paper (criticisms, limitations, things you liked, potential improvements)
-* Questions you have after reading the paper
+* What is your opinion of the paper (criticisms, limitations, things you liked, potential improvements, strengths, weaknesses according to you)
+* Feel free to puts questions you have after reading the paper in your summary too
 
 We will discuss the key questions in the class for each paper. The goal of the writing the summary is to get you to think deeply about the paper, not to test you. You will not be graded on the correctness of your reviews; any non-trivial review will get you points.
 
