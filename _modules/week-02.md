@@ -3,7 +3,7 @@ title: Search Space Pruning
 ---
 
 Mon Aug 28
-: Equivalence Reduction
+: [Equivalence Reduction](../lectures/lecture04-equivalence-reduction.pdf)
   : []()
 
 Wed Aug 30
