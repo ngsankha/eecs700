@@ -33,3 +33,5 @@ _The link to join Discord is shared on Canvas. Email me if you are unable to joi
 ### Disclaimer
 
 All information on this class website is tentative and subject to change. Any substantive change will be accompanied with an announcement to the class via Canvas and Discord.
+
+_This course is inspired from other Program Synthesis classes at [MIT](https://people.csail.mit.edu/asolar/SynthesisCourse/) and [UCSD](https://github.com/nadia-polikarpova/cse291-program-synthesis/). You should check out those courses as well!_
