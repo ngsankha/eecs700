@@ -7,9 +7,9 @@ Mon Aug 28
   : []()
 
 Wed Aug 30
-: Top-down Propagation
-  : [EUSolver](https://www.cis.upenn.edu/~alur/Tacas17.pdf)
+: [Top-down Propagation](../lectures/lecture05-tdp.pdf)
+  : []()
 
 Fri Sep 1
-: Equivalence Reduction
+: Paper Discussion: [EUSolver](https://www.cis.upenn.edu/~alur/Tacas17.pdf)
   : []()
