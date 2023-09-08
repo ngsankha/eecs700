@@ -3,7 +3,7 @@ title: Representation-based Search and Stochastic Search
 ---
 
 Mon Sep 11
-: Framework Demos and Project Ideas
+: Learning Weights and Framework Demos + Project Ideas
   : []()
 
 Wed Sep 13

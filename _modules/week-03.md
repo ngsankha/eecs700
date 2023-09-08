@@ -6,9 +6,9 @@ Mon Sep 4
 : **Labor Day**{: .label .label-red }
 
 Wed Sep 6
-: [Weighted Enumerative Search](../lectures/lecture07-weighted.pdf)
+: [Weighted Enumerative Search - I](../lectures/lecture07-weighted.pdf)
   : []()
 
 Fri Sep 8
-: Learning Weights
+: Weighted Enumerative Search - II
   : []()
