@@ -10,5 +10,5 @@ Wed Sep 6
   : []()
 
 Fri Sep 8
-: [Weighted Enumerative Search - II](../lectures/lecture07-weighted-II.pdf)
+: [Weighted Enumerative Search - II](../lectures/lecture08-weighted-II.pdf)
   : []()
