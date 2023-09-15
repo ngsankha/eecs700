@@ -7,9 +7,9 @@ Mon Sep 11
   : []()
 
 Wed Sep 13
-: Stochastic Search
+: [Finite Tree Automata and e-graphs](../lectures/lecture09-representation.pdf)
   : []()
 
 Fri Sep 15
-: Framework Demos
+: [Stochastic Search](../lectures/lecture11-stochastic.pdf)
   : []()
