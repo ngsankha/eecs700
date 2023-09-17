@@ -3,11 +3,11 @@ title: Representation-based Search and Stochastic Search
 ---
 
 Mon Sep 11
-: [Version Space Algebra and Finite Tree Automata](../lectures/lecture09-representation.pdf)
+: [Version Space Algebra and Finite Tree Automata](../lectures/lecture09-vsa.pdf)
   : []()
 
 Wed Sep 13
-: [Finite Tree Automata and e-graphs](../lectures/lecture09-representation.pdf)
+: [Finite Tree Automata and e-graphs](../lectures/lecture10-fta-egraph.pdf)
   : []()
 
 Fri Sep 15

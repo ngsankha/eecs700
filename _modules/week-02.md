@@ -11,5 +11,5 @@ Wed Aug 30
   : []()
 
 Fri Sep 1
-: Paper Discussion
+: [Paper Discussion](../lectures/lecture06-eusolver.pdf)
   : [EUSolver](https://www.cis.upenn.edu/~alur/Tacas17.pdf)
