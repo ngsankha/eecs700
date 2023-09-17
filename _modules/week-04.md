@@ -13,3 +13,6 @@ Wed Sep 13
 Fri Sep 15
 : [Stochastic Search](../lectures/lecture11-stochastic.pdf)
   : []()
+
+Sun Sep 17
+: **Project Group Due**{: .label .label-purple }

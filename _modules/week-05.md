@@ -7,9 +7,9 @@ Mon Sep 18
   : [EUPhony](https://www.cis.upenn.edu/~alur/PLDI18.pdf)
 
 Wed Sep 20
-: Constraint-based Search
-  : 
+: Hoare Logic
+  : []()
 
 Fri Sep 22
-: TBD
+: Symbolic Execution
   : []()
