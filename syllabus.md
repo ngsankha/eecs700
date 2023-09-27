@@ -45,7 +45,7 @@ The projects will be judged on scope, quality of execution, and originality.
 
 ## Class Participation
 
-To earn participation points, participate in discussions during class and online on Discord.
+To earn participation points, participate in discussions and ask questions during lectures and online on Discord.
 
 ## Academic Integrity
 
