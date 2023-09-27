@@ -3,15 +3,15 @@ title: Program Sketching
 ---
 
 Mon Sep 25
-: Constraint-based Search
-  : [BlinkFill](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/09/vldb16.pdf)
-
-Wed Sep 27
-: Counterexample Guided Inductive Synthesis (CEGIS)
+: Symbolic Execution Demo
   : []()
 
+Wed Sep 27
+: [How SAT/SMT Solvers Work](../lectures/lecture16-dpll.pdf)
+  : [BlinkFill](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/09/vldb16.pdf)
+
 Fri Sep 29
-: Program Sketching
+: Constraint-based Search
   : []()
 
 Sun Oct 1

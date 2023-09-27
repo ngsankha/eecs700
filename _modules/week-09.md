@@ -6,7 +6,7 @@ Mon Oct 16
 : **Fall Break**{: .label .label-red }
 
 Wed Oct 18
-: TBD
+: Synthesis with Abstract Interpretation
   : []()
 
 Fri Oct 20

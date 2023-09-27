@@ -3,13 +3,13 @@ title: Deductive Synthesis
 ---
 
 Mon Oct 9
-: Deductive Synthesis
+: Synthesis with Refinement Types
   : []()
 
 Wed Oct 11
-: Deductive/Inductive Hybrid Strategies
+: Deductive Synthesis
   : []()
 
 Fri Oct 13
-: Synthesis with Abstract Interpretation
+: Deductive/Inductive Hybrid Strategies
   : []()
