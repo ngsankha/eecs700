@@ -11,7 +11,7 @@ Wed Sep 27
   : [BlinkFill](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/09/vldb16.pdf)
 
 Fri Sep 29
-: Constraint-based Search
+: [Constraint-based Search](../lectures/lecture17-constraint.pdf)
   : []()
 
 Sun Oct 1
