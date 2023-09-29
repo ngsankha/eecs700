@@ -7,8 +7,8 @@ Mon Oct 16
 
 Wed Oct 18
 : Synthesis with Abstract Interpretation
-  : []()
+  : [Synquid](https://cseweb.ucsd.edu/~npolikarpova/publications/pldi16.pdf)
 
 Fri Oct 20
-: TBD
+: Synthesis from tests
   : []()

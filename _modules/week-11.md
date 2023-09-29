@@ -3,13 +3,13 @@ title: TBD
 ---
 
 Mon Oct 30
-: TBD
+: Synthesizing Under a Distribution
   : []()
 
 Wed Nov 1
-: TBD
-  : []()
+: Neural-Guided Synthesis
+  : [RbSyn](https://sankhs.com/static/rbsyn-pldi21.pdf)
 
 Fri Nov 3
-: TBD
+: Synthesis as Reinforcement Learning
   : []()

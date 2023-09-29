@@ -3,13 +3,13 @@ title: Neural Synthesis
 ---
 
 Mon Nov 13
-: Neural-Guided Synthesis
+: TBD
   : []()
 
 Wed Nov 15
-: Synthesis as Reinforcement Learning
+: TBD
   : []()
 
 Fri Nov 17
-: Neurosymbolic Synthesis - I
+: TBD
   : []()
