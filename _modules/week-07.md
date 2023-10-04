@@ -7,7 +7,7 @@ Mon Oct 2
   : []()
 
 Wed Oct 4
-: CEGIS and Program Sketching
+: [CEGIS and Program Sketching](../lectures/lecture19-cegis.pdf)
   : [Brahma](https://people.eecs.berkeley.edu/~sseshia/pubdir/synth-icse10.pdf)
 
 Fri Oct 6
