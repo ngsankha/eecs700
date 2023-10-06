@@ -3,7 +3,7 @@ title: Test-driven Synthesis
 ---
 
 Mon Oct 23
-: Synthesizing Effectful programs
+: Synthesis from tests
   : []()
 
 Wed Oct 25

@@ -13,4 +13,3 @@ Wed Oct 4
 Fri Oct 6
 : [CEGIS and Program Sketching (cont.)](../lectures/lecture20-cegis2.pdf)
   : []()
-
