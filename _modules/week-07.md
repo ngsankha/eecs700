@@ -11,5 +11,6 @@ Wed Oct 4
   : [Brahma](https://people.eecs.berkeley.edu/~sseshia/pubdir/synth-icse10.pdf)
 
 Fri Oct 6
-: Type-directed Synthesis
+: [CEGIS and Program Sketching (cont.)](../lectures/lecture20-cegis2.pdf)
   : []()
+
