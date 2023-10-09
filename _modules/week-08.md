@@ -3,7 +3,7 @@ title: Deductive Synthesis
 ---
 
 Mon Oct 9
-: Type-directed Synthesis
+: [Type-directed Synthesis](../lectures/lecture21-types.pdf)
   : []()
 
 Wed Oct 11
