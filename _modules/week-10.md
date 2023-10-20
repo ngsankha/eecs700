@@ -3,7 +3,7 @@ title: Test-driven Synthesis
 ---
 
 Mon Oct 23
-: Synthesis from tests
+: Deductive Synthesis
   : []()
 
 Wed Oct 25
@@ -11,5 +11,5 @@ Wed Oct 25
   : [Regae](https://glassmanlab.seas.harvard.edu/papers/ips_augex_uist20.pdf)
 
 Fri Oct 27
-: Bayesian View of Synthesis
+: Synthesis with Abstract Interpretation
   : []()
