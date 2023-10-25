@@ -7,9 +7,11 @@ Mon Oct 23
   : []()
 
 Wed Oct 25
-: Synthesizing Effectful programs
+: [Separation Logic and Deductive Synthesis](../lectures/lecture27-sl.pdf)
   : [Regae](https://glassmanlab.seas.harvard.edu/papers/ips_augex_uist20.pdf)
 
 Fri Oct 27
-: Synthesis with Abstract Interpretation
+: Synthesizing Effectful programs
   : []()
+
+<!-- Synthesis with Abstract Interpretation -->
