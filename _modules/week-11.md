@@ -3,13 +3,13 @@ title: TBD
 ---
 
 Mon Oct 30
-: Bayesian View of Synthesis
+: Synthesis with Abstract Interpretation
   : []()
 
 Wed Nov 1
-: Synthesizing Under a Distribution
+: Bayesian View of Synthesis
   : [RbSyn](https://sankhs.com/static/rbsyn-pldi21.pdf)
 
 Fri Nov 3
-: Neural-Guided Synthesis
+: Bayesian View of Synthesis
   : []()

@@ -11,7 +11,5 @@ Wed Oct 25
   : [Regae](https://glassmanlab.seas.harvard.edu/papers/ips_augex_uist20.pdf)
 
 Fri Oct 27
-: Synthesizing Effectful programs
+: [Synthesizing Effectful programs](../lectures/lecture28-effects.pdf)
   : []()
-
-<!-- Synthesis with Abstract Interpretation -->

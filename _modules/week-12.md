@@ -3,13 +3,13 @@ title: Probabilistic Synthesis
 ---
 
 Mon Nov 6
-: Synthesis as Reinforcement Learning
+: Neural-Guided Synthesis
   : []()
 
 Wed Nov 8
-: Neurosymbolic Synthesis - I
+: Synthesis as Reinforcement Learning
   : [Execution-Guided Neural Program Synthesis](https://openreview.net/pdf?id=H1gfOiAqYm)
 
 Fri Nov 10
-: Neurosymbolic Synthesis - II
+: Neurosymbolic Synthesis - I
   : []()
