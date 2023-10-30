@@ -3,13 +3,13 @@ title: Probabilistic Synthesis
 ---
 
 Mon Nov 6
-: Neural-Guided Synthesis
+: Bayesian View of Synthesis
   : []()
 
 Wed Nov 8
-: Synthesis as Reinforcement Learning
+: Bayesian View of Synthesis
   : [Execution-Guided Neural Program Synthesis](https://openreview.net/pdf?id=H1gfOiAqYm)
 
 Fri Nov 10
-: Neurosymbolic Synthesis - I
+: Neural-Guided Synthesis
   : []()
