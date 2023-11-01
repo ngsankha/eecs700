@@ -7,7 +7,7 @@ Mon Oct 30
   : []()
 
 Wed Nov 1
-: Synthesis with Abstract Interpretation
+: [Synthesis with Abstract Interpretation](../lectures/lecture30-abstract.pdf)
   : [RbSyn](https://sankhs.com/static/rbsyn-pldi21.pdf)
 
 Fri Nov 3
