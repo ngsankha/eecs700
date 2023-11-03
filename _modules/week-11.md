@@ -11,5 +11,7 @@ Wed Nov 1
   : [RbSyn](https://sankhs.com/static/rbsyn-pldi21.pdf)
 
 Fri Nov 3
-: Deductive/Inductive Hybrid
+: [Paper Discussion and Absynthe (cont.)](../lectures/lecture31-absynthe.pdf)
   : []()
+
+<!-- Deductive/Inductive Hybrid -->
