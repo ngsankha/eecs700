@@ -7,7 +7,7 @@ Mon Nov 6
   : []()
 
 Wed Nov 8
-: Bayesian View of Synthesis
+: Synthesizing Under a Distribution
   : [Execution-Guided Neural Program Synthesis](https://openreview.net/pdf?id=H1gfOiAqYm)
 
 Fri Nov 10
