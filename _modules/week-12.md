@@ -3,7 +3,7 @@ title: Probabilistic Synthesis
 ---
 
 Mon Nov 6
-: Bayesian View of Synthesis
+: [Bayesian View of Synthesis](../lectures/lecture32-bayes.pdf)
   : []()
 
 Wed Nov 8
