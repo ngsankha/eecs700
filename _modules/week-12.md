@@ -7,7 +7,7 @@ Mon Nov 6
   : []()
 
 Wed Nov 8
-: Synthesizing Under a Distribution
+: [Synthesizing Under a Distribution](../lectures/lecture33-distribution.pdf)
   : [Execution-Guided Neural Program Synthesis](https://openreview.net/pdf?id=H1gfOiAqYm)
 
 Fri Nov 10
