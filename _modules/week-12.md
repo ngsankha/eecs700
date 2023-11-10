@@ -11,5 +11,5 @@ Wed Nov 8
   : [Execution-Guided Neural Program Synthesis](https://openreview.net/pdf?id=H1gfOiAqYm)
 
 Fri Nov 10
-: Neural-Guided Synthesis
+: [Neural-Guided Synthesis](../lectures/lecture34-learning.pdf)
   : []()
