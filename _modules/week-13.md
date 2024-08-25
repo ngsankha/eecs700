@@ -2,14 +2,14 @@
 title: Neural Synthesis
 ---
 
-Mon Nov 13
+Mon Nov 18
 : Synthesis as Reinforcement Learning
   : []()
 
-Wed Nov 15
+Wed Nov 20
 : Neurosymbolic Synthesis - I
   : []()
 
-Fri Nov 17
+Fri Nov 22
 : Neurosymbolic Synthesis - II
   : []()

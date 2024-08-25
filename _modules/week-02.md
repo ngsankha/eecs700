@@ -2,14 +2,13 @@
 title: Search Space Pruning
 ---
 
-Mon Aug 28
+Mon Sep 2
+: **Labor Day**{: .label .label-red }
+
+Wed Sep 4
 : [Equivalence Reduction](../lectures/lecture04-equivalence-reduction.pdf)
   : []()
 
-Wed Aug 30
+Fri Sep 6
 : [Top-down Propagation](../lectures/lecture05-tdp.pdf)
   : []()
-
-Fri Sep 1
-: [Paper Discussion](../lectures/lecture06-eusolver.pdf)
-  : [EUSolver](https://www.cis.upenn.edu/~alur/Tacas17.pdf)

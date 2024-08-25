@@ -2,14 +2,13 @@
 title: Deductive Synthesis
 ---
 
-Mon Oct 9
+Mon Oct 14
+: **Fall Break**{: .label .label-red }
+
+Wed Oct 16
 : [Type-directed Synthesis](../lectures/lecture21-types.pdf)
   : []()
 
-Wed Oct 11
+Fri Oct 18
 : [Type-directed Synthesis](../lectures/lecture22-types2.pdf)
   : [Sketch](https://link.springer.com/content/pdf/10.1007/s10009-012-0249-7.pdf)
-
-Fri Oct 13
-: [Paper Discussion and Type-directed Synthesis](../lectures/lecture23-brahma.pdf)
-  : []()

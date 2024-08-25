@@ -2,13 +2,13 @@
 title: Presentation
 ---
 
-Mon Dec 4
+Mon Dec 9
 : Project Presentations
   : []()
 
-Wed Dec 6
+Wed Dec 11
 : Project Presentations
   : []()
 
-Fri Dec 8
+Fri Dec 12
 : **Project Report Due**{: .label .label-purple }

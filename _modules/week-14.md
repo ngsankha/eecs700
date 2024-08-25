@@ -2,12 +2,12 @@
 title: Neurosymbolic
 ---
 
-Mon Nov 20
+Mon Nov 25
 : TBD
   : []()
 
-Wed Nov 22
+Wed Nov 27
 : **Thanksgiving**{: .label .label-red }
 
-Fri Nov 24
+Fri Nov 29
 : **Thanksgiving**{: .label .label-red }
