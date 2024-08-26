@@ -7,11 +7,11 @@ Mon Sep 30
   : []()
 
 Wed Oct 2
-: [How SAT/SMT Solvers Work](../lectures/lecture16-dpll.pdf)
-  : [BlinkFill](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/09/vldb16.pdf)
+: How SAT/SMT Solvers Work
+  : []()
 
 Fri Oct 4
-: [Constraint-based Search](../lectures/lecture17-constraint.pdf)
+: Constraint-based Search
   : []()
 
 Sun Oct 6

@@ -3,15 +3,15 @@ title: TBD
 ---
 
 Mon Nov 4
-: [Abstract Interpretation](https://groups.seas.harvard.edu/courses/cs252/2015fa/lectures/Lec05-AbstractInt.pdf)
+: Abstract Interpretation
   : []()
 
 Wed Nov 6
-: [Synthesis with Abstract Interpretation](../lectures/lecture30-abstract.pdf)
-  : [RbSyn](https://sankhs.com/static/rbsyn-pldi21.pdf)
+: Synthesis with Abstract Interpretation
+  : []()
 
 Fri Nov 8
-: [Paper Discussion and Absynthe (cont.)](../lectures/lecture31-absynthe.pdf)
+: Paper Discussion and Absynthe (cont.)
   : []()
 
 <!-- Deductive/Inductive Hybrid -->

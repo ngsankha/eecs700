@@ -7,9 +7,9 @@ Mon Aug 26
   : []()
 
 Wed Aug 28
-: [Syntax-Guided Synthesis](../lectures/lecture02-sygus.pdf)
+: Syntax-Guided Synthesis
   : []()
 
 Fri Aug 30
-: [Enumerative Search](../lectures/lecture03-enumeration.pdf)
+: Enumerative Search
   : []()
