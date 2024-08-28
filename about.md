@@ -17,7 +17,7 @@ seo:
 
 **Lectures:** Monday, Wednesday, and Friday, 3:00 - 3:50pm, LEEP2 G411
 
-**Office Hours:** Monday 2:00 - 3:00pm, Eaton Hall 2034
+**Office Hours:** Monday 4:00 - 5:00pm, Eaton Hall 2034
 
 **Email:** [sankha@ku.edu](mailto:sankha@ku.edu)
 
