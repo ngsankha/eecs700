@@ -7,7 +7,7 @@ Mon Aug 26
   : []()
 
 Wed Aug 28
-: Syntax-Guided Synthesis
+: [Syntax-Guided Synthesis](../lectures/lecture02-sygus.pdf)
   : []()
 
 Fri Aug 30
