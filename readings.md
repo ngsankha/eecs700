@@ -3,6 +3,7 @@ layout: page
 title: Readings
 description: EECS 700 class list of papers
 nav_order: 4
+published: false
 ---
 
 # Reading List
