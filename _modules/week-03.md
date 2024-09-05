@@ -3,7 +3,7 @@ title: Biasing Search
 ---
 
 Mon Sep 9
-: Paper Discussion
+: Top-down Propagation
   : []()
 
 Wed Sep 11

@@ -11,5 +11,5 @@ Wed Aug 28
   : []()
 
 Fri Aug 30
-: Enumerative Search
+: [Enumerative Search](../lectures/lecture03-enumeration.pdf)
   : []()

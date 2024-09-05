@@ -6,9 +6,9 @@ Mon Sep 2
 : **Labor Day**{: .label .label-red }
 
 Wed Sep 4
-: Equivalence Reduction
+: [Enumerative Search (Cont.)](../lectures/lecture03-enumeration.pdf)
   : []()
 
 Fri Sep 6
-: Top-down Propagation
+: Equivalence Reduction
   : []()
