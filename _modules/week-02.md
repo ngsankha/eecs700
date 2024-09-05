@@ -11,4 +11,4 @@ Wed Sep 4
 
 Fri Sep 6
 : Equivalence Reduction
-  : []()
+  : [EUSolver](https://www.cis.upenn.edu/~alur/Tacas17.pdf)
