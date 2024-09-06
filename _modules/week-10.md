@@ -8,8 +8,8 @@ Mon Oct 28
 
 Wed Oct 30
 : Separation Logic and Deductive Synthesis
-  : Regae
+  : []()
 
 Fri Nov 1
 : Synthesizing Effectful programs
-  : []()
+  : [Regae](https://glassmanlab.seas.harvard.edu/papers/ips_augex_uist20.pdf)

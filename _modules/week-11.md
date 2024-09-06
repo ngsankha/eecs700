@@ -12,6 +12,6 @@ Wed Nov 6
 
 Fri Nov 8
 : Paper Discussion and Absynthe (cont.)
-  : []()
+  : [RbSyn](https://sankhs.com/static/rbsyn-pldi21.pdf)
 
 <!-- Deductive/Inductive Hybrid -->

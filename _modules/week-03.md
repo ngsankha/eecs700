@@ -12,4 +12,4 @@ Wed Sep 11
 
 Fri Sep 13
 : Weighted Enumerative Search - II
-  : []()
+  : [EUPhony](https://www.cis.upenn.edu/~alur/PLDI18.pdf)

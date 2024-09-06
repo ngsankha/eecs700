@@ -11,4 +11,4 @@ Wed Oct 16
 
 Fri Oct 18
 : Type-directed Synthesis
-  : []()
+  : [Sketch](https://link.springer.com/content/pdf/10.1007/s10009-012-0249-7.pdf)

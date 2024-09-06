@@ -12,4 +12,4 @@ Wed Oct 9
 
 Fri Oct 11
 : CEGIS and Program Sketching (cont.)
-  : []()
+  : [Brahma](https://people.eecs.berkeley.edu/~sseshia/pubdir/synth-icse10.pdf)

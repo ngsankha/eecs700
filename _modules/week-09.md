@@ -12,4 +12,4 @@ Wed Oct 23
 
 Fri Oct 25
 : Paper Discussion
-  : []()
+  : [Synquid](https://cseweb.ucsd.edu/~npolikarpova/publications/pldi16.pdf)
