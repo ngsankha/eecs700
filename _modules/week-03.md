@@ -3,13 +3,13 @@ title: Biasing Search
 ---
 
 Mon Sep 9
-: Top-down Propagation
+: [Paper + Project Discussions](../lectures/lecture05-eusolver.pdf)
   : []()
 
 Wed Sep 11
-: Weighted Enumerative Search - I
+: Top-down Propagation
   : []()
 
 Fri Sep 13
-: Weighted Enumerative Search - II
+: Weighted Enumerative Search
   : [EUPhony](https://www.cis.upenn.edu/~alur/PLDI18.pdf)
