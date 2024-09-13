@@ -7,7 +7,7 @@ Mon Sep 9
   : []()
 
 Wed Sep 11
-: Top-down Propagation
+: [Top-down Propagation](../lectures/lecture06-tdp.pdf)
   : []()
 
 Fri Sep 13
