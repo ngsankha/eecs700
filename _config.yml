@@ -71,3 +71,8 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+nav_external_links:
+  - title: Canvas
+    url: https://canvas.ku.edu/courses/129458
+  - title: Example Code on Github
+    url: https://github.com/ku-progsys/eecs700-demos
