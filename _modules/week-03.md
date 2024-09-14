@@ -11,5 +11,5 @@ Wed Sep 11
   : []()
 
 Fri Sep 13
-: Weighted Enumerative Search
+: [Weighted Enumerative Search](../lectures/lecture07-weighted.pdf)
   : [EUPhony](https://www.cis.upenn.edu/~alur/PLDI18.pdf)
