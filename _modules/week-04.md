@@ -3,15 +3,15 @@ title: Representation-based Search and Stochastic Search
 ---
 
 Mon Sep 16
-: Version Space Algebra and Finite Tree Automata
+: [Weighted Enumerative Search (cont.)](../lectures/lecture07-weighted.pdf) and [EuPhony](../lectures/lecture08-euphony.pdf)
   : []()
 
 Wed Sep 18
-: Finite Tree Automata and e-graphs
+: Version Space Algebra and Finite Tree Automata
   : []()
 
 Fri Sep 20
-: Stochastic Search
+: e-graphs and Stochastic Search
   : []()
 
 Sun Sep 22
