@@ -3,11 +3,11 @@ title: Constraint Solving
 ---
 
 Mon Sep 23
-: Constraint Solving with SAT/SMT
+:  Stochastic Search
   : []()
 
 Wed Sep 25
-: Paper Discussion and Constraint Solving (Cont.)
+: Constraint Solving with SAT/SMT
   : []()
 
 Fri Sep 27

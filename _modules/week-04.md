@@ -7,11 +7,11 @@ Mon Sep 16
   : []()
 
 Wed Sep 18
-: Version Space Algebra and Finite Tree Automata
+: [Version Space Algebra](../lectures/lecture09-vsa.pdf)
   : []()
 
 Fri Sep 20
-: e-graphs and Stochastic Search
+: [Finite Tree Automata and e-graphs](../lectures/lecture10-fta-egraph.pdf)
   : []()
 
 Sun Sep 22
