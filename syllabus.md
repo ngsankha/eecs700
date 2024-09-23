@@ -84,9 +84,12 @@ The goal of the final project is to gain an in-depth understanding of the materi
 The project will have the following milestones:
 
 1. Form and register your project group with 2-3 students.
-2. A project proposal where you describe what you plan to do and why it is a good idea. The project should be well scoped and give concrete examples about what is the input/outputs for the synthesizer and a rough idea of how it will transform the input to the output. The proposal should be 1 page long.
+2. **Project Proposal:** One page document with 3 sections:
+  * What you plan to do and why it is a good idea. The project should be well scoped.
+  * Give concrete example(s) about what kind of synthesis problem will be solved, i.e. what are the input/outputs for the synthesizer
+  *  Broad idea of the algorithm/tools your synthesizer will use to transform the provided synthesis problem to the desired program. Give 1-2 sentences about your plans for evaluating your project.
 3. A short presentation describing your project.
-4. A final report describing your project between 5-8 pages of length. The report should read like a short paper, so describe what you did with examples, you algorithm, your design decisions, and link to your code repository on GitHub.
+4. A final report describing your project between 5-8 pages of length. The report should read like a short paper, so describe what you did with examples, you algorithm, your design decisions, and link to your code repository on GitHub. This should be similar in-spirit to the papers you read in class.
 
 The projects will be judged on scope, quality of execution, and originality.
 
