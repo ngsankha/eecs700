@@ -3,11 +3,11 @@ title: Program Sketching
 ---
 
 Mon Sep 30
-: Symbolic Execution Demo
+: How SAT/SMT Solvers Work
   : []()
 
 Wed Oct 2
-: How SAT/SMT Solvers Work
+: TBD
   : []()
 
 Fri Oct 4
