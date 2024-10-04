@@ -3,7 +3,7 @@ title: Type-driven Synthesis
 ---
 
 Mon Oct 7
-: Specifications
+: TBD
   : []()
 
 Wed Oct 9

@@ -3,15 +3,15 @@ title: Program Sketching
 ---
 
 Mon Sep 30
-: How SAT/SMT Solvers Work
+: [How SAT/SMT Solvers Work](../lectures/lecture16-dpll.pdf)
   : []()
 
 Wed Oct 2
-: TBD
+: [BlinkFill and Constraint-based Search](../lectures/lecture17-constraint.pdf)
   : []()
 
 Fri Oct 4
-: Constraint-based Search
+: [Specifications](../lectures/lecture18-specification.pdf)
   : []()
 
 Sun Oct 6
