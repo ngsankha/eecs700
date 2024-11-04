@@ -7,9 +7,9 @@ Mon Nov 11
   : []()
 
 Wed Nov 13
-: Synthesizing Under a Distribution
+: **SNG Traveling**{: .label .label-yellow }
   : []()
 
 Fri Nov 15
-: Neural-Guided Synthesis
+: Synthesizing Under a Distribution
   : [Execution-guided Neural Program Synthesis](https://openreview.net/pdf?id=H1gfOiAqYm)

@@ -3,13 +3,13 @@ title: Neural Synthesis
 ---
 
 Mon Nov 18
-: Synthesis as Reinforcement Learning
+: Neural-Guided Synthesis
   : []()
 
 Wed Nov 20
-: Neurosymbolic Synthesis - I
+: Synthesis as Reinforcement Learning
   : []()
 
 Fri Nov 22
-: Neurosymbolic Synthesis - II
+: **SNG Traveling**{: .label .label-yellow }
   : []()

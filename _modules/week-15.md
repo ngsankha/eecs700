@@ -3,7 +3,7 @@ title: Presentation
 ---
 
 Mon Dec 2
-: TBD
+: Neurosymbolic Synthesis - II
   : []()
 
 Wed Dec 4

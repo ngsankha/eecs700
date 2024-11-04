@@ -3,7 +3,7 @@ title: Neurosymbolic
 ---
 
 Mon Nov 25
-: TBD
+: Neurosymbolic Synthesis - I
   : []()
 
 Wed Nov 27
