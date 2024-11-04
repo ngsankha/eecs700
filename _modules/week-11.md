@@ -3,15 +3,15 @@ title: TBD
 ---
 
 Mon Nov 4
-: Abstract Interpretation
+: Synthesizing Effectful programs
   : []()
 
 Wed Nov 6
-: Synthesis with Abstract Interpretation
+: Abstract Interpretation
   : []()
 
 Fri Nov 8
-: Paper Discussion and Absynthe (cont.)
+: Paper Discussion and Synthesis with Abstract Interpretation
   : [RbSyn](https://sankhs.com/static/rbsyn-pldi21.pdf)
 
 <!-- Deductive/Inductive Hybrid -->
