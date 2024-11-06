@@ -7,7 +7,7 @@ Mon Nov 4
   : []()
 
 Wed Nov 6
-: Abstract Interpretation
+: [Abstract Interpretation](https://groups.seas.harvard.edu/courses/cs252/2015fa/lectures/Lec05-AbstractInt.pdf)
   : []()
 
 Fri Nov 8
