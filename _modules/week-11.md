@@ -3,7 +3,7 @@ title: TBD
 ---
 
 Mon Nov 4
-: Synthesizing Effectful programs
+: [Synthesizing Effectful programs](../lectures/lecture28-effects.pdf)
   : []()
 
 Wed Nov 6
