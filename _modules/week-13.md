@@ -3,11 +3,11 @@ title: Neural Synthesis
 ---
 
 Mon Nov 18
-: Neural-Guided Synthesis
+: [Learning Complex Distributions](../lectures/lecture34-learning.pdf)
   : []()
 
 Wed Nov 20
-: Synthesis as Reinforcement Learning
+: [Synthesis with Optimization](../lectures/lecture35-optimization.pdf)
   : []()
 
 Fri Nov 22

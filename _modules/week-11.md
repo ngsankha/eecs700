@@ -11,7 +11,7 @@ Wed Nov 6
   : []()
 
 Fri Nov 8
-: Paper Discussion and Synthesis with Abstract Interpretation
+: [Synthesis with Abstract Interpretation](../lectures/lecture30-absynthe.pdf) and [Paper Discussion](../lectures/lecture31-regae-rbsyn.pdf)
   : [RbSyn](https://sankhs.com/static/rbsyn-pldi21.pdf)
 
 <!-- Deductive/Inductive Hybrid -->
