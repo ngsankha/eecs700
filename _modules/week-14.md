@@ -3,7 +3,7 @@ title: Neurosymbolic
 ---
 
 Mon Nov 25
-: Neurosymbolic Synthesis - I
+: [Neurosymbolic Synthesis - I](../lectures/lecture36-neurosymbolic.pdf)
   : []()
 
 Wed Nov 27

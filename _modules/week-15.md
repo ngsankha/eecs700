@@ -3,7 +3,7 @@ title: Presentation
 ---
 
 Mon Dec 2
-: Neurosymbolic Synthesis - II
+: [Neurosymbolic Synthesis - II](https://neurosymbolic-learning.github.io/popl23tutorial/neurosymbolic_notebook2.html)
   : []()
 
 Wed Dec 4
