@@ -11,7 +11,7 @@ Wed Oct 2
   : []()
 
 Fri Oct 4
-: [Specifications](../lectures/lecture18-specification.pdf)
+: [Specifications](../lectures/lecture18-specifications.pdf)
   : []()
 
 Sun Oct 6
